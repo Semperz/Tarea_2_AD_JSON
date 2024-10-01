@@ -1,0 +1,77 @@
+{
+  "Juegos":[
+    {
+      "Nombre" : "Clash Royale",
+      "Version" : "15.0.4",
+      "Descripcion" : "Clash Royale es un ...",
+      "Idiomas Disponibles": [
+        "Español",
+        "Frances",
+        "Italiano",
+        "Ingles",
+        "Chino",
+        "Japones"
+      ],
+      "Imagenes":[
+        "Caratula.jpg",
+        "Icono.ico",
+        "Gameplay.jpg",
+        "Gameplay.gif"
+      ],
+      "Opiniones": [
+        {
+          "Nombre": "Nicolas Maduro",
+          "Comentario": "Muy buen juego parse"
+        },
+        {
+          "Nombre": "Capitan Rex",
+          "Comentario": "Mal juego, no me gusta"
+        }
+      ]
+    },
+    {
+      "Nombre" : "League of legends",
+      "Version" : "23.2.7",
+      "Descripcion" : "League of legends es un ...",
+      "Idiomas Disponibles": [
+        "Español",
+        "Frances",
+        "Italiano",
+        "Ingles",
+        "Chino",
+        "Japones",
+        "Indones",
+        "Indio",
+        "Coreano",
+        "Vietnamita"
+      ],
+      "Imagenes":[
+        "Icono.ico",
+        "Gameplay.jpg",
+        "Gameplay.gif"
+      ],
+      "Opiniones": [
+        {
+          "Nombre": "Nicolas Maduro",
+          "Comentario": "No me gusto mucho pero me parece que está bien hecho y no tiene fallos"
+        },
+        {
+          "Nombre": "Capitan Rex",
+          "Comentario": "Me encanto, no puedo dejar de jugarlo"
+        }
+      ]
+    }
+  ],
+  "Users": [
+    {
+      "ID": "1111R",
+      "Avatar": "Maduro.jpg",
+      "Nombre": "Nicolas Maduro"
+    },
+    {
+      "ID": "1112F",
+      "Avatar": "Rex.jpg",
+      "Nombre": "Capitan Rex"
+    }
+  ]
+}

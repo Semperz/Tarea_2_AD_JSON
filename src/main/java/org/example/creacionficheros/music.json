@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Rap",
+    "canciones": [
+      {
+        "titulo": "The What",
+        "autor": "The Notorious B.I.G",
+        "duracion": "02:40"
+      },
+      {
+        "titulo": "Everyday Struggle",
+        "autor": "The Notorious B.I.G",
+        "duracion": "03:23"
+      }
+    ]
+  },
+  {
+    "nombre": "Trap",
+    "canciones": [
+      {
+        "titulo": "Givenchy",
+        "autor": "Duki",
+        "duracion": "04:12"
+      },
+      {
+        "titulo": "PASAJERO",
+        "autor": "Mora",
+        "duracion": "02:34"
+      }
+    ]
+  }
+]
