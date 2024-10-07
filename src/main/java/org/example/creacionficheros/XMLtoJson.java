@@ -15,12 +15,16 @@ public class XMLtoJson {
         XmlMapper xmlMapper = new XmlMapper();
         try {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Como se llama el archivo?" + '\n');
+            System.out.println("Como se llama el archivo?");
             StringBuilder path = new StringBuilder();
             path.append("res/");
             path.append(scanner.nextLine());
             if (!Files.exists(Path.of(path.toString()))) {
                 System.out.println("El archivo no existe. Verifica la ruta.");
+                return;
+            }
+            if (Files.exists(Path.of(path.toString().replace(".xml", ".json")))) {
+                System.out.println("El archivo ya existe.");
                 return;
             }
             JsonNode node = xmlMapper.readTree(new File(path.toString()));
