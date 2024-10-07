@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The Binding of Isaac",
+    "description": "The Binding of Isaac es un videojuego de rol de acción, videojuego de mazmorras, y videojuego de disparos de palancas gemelas, creado como concepto por Edmund McMillen como un proyecto secundario mientras seguía trabajando en Super Meat Boy junto con Tommy Refenes.",
+    "languages": [
+      "English",
+      "Español",
+      "Chino",
+      "Japones"
+    ]
+  },
+  {
+    "name": "Overwatch 2",
+    "description": "Overwatch 2 es un videojuego de disparos en primera persona. Fue desarrollado y publicado por Blizzard Entertainment. Es una secuela del hero shooter de 2016 Overwatch. El videojuego se diseñó para tener un entorno compartido para los modos de jugador contra jugador (JcJ) con el primer videojuego al tiempo que presenta modos cooperativos persistentes.",
+    "languages": [
+      "English",
+      "Español",
+      "Japones",
+      "Vietnamita"
+    ]
+  }
+]
